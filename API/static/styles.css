@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    font-family: monospace;
+  }
+  h1 {
+    color: #5014DC;
+    font-size: 150px;
+    
+  }
+
+  p {
+    color: #5014DC;
+    font-size: 80px;
+    
+  }
+
+  .center{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  .bcenter{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
