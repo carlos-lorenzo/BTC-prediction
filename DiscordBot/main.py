@@ -6,10 +6,9 @@ Permisions Int: 534723950672
 """
 
 # bot.py
-import asyncio
 from makePrediction import predict_h1, predict_D
 
-import os, discord, datetime
+import os, discord, datetime, asyncio
 from discord.ext import commands, tasks
 
 
